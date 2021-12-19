@@ -1,6 +1,5 @@
 # labspy07
 ## Berikut adalah kode saya
-
 datasiswa = []
 pilih = 0
 
@@ -133,7 +132,6 @@ def keluar():
 menu()
 
 ini adalah kode dari pertemuan 11,tetapi saya tambahkan dari materi baru pertemuan 12
-
 class Person():
     def __init__(self, nama, nim, nilai):
         self.nama = nama
